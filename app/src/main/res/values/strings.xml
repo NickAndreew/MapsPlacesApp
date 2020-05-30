@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MapsPlacesApp</string>
+
+    <string name="google_maps_API_key">AIzaSyAv5wOhWnMd-5haV6Su9A7D4ulGbYFnyAo</string>
+    <string name="google_places_API_key">AIzaSyB4wCnvcjnAZvxcJVzD5aQM0Nk9IrGZhQo</string>
+
+
+</resources>

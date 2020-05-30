@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 0.002 USD per each (2.00 USD per 1000) -->
+    <bool name="show_confirmation_photo">true</bool>
+
+    <!-- 0.007 USD per each (7.00 USD per 1000) -->
+    <bool name="show_confirmation_map">true</bool>
+
+    <!-- If true, the map will automatically center (pan) to
+         the selected marker -->
+    <bool name="auto_center_on_marker_click">false</bool>
+</resources>
