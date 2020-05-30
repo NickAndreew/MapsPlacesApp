@@ -18,3 +18,7 @@ The project MapsPlacesApp includes:
 
 The app is a demo to a few key parts of mobile development and is not a complete product for customer use. 
 I hope someone would find it interesting, get inspired and enjoy the demo.
+
+# Demo
+
+https://drive.google.com/file/d/1NpMwQdCPO_xHTD28yjfqKDwPUBkx8d-F/view
